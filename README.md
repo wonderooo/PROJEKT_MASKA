@@ -4,6 +4,8 @@ Projekt Maska został stworzony w ramach konkursu "Sztuczna inteligencja w moim 
 <br/>
 Aplikacja pozwala na rozpoznawanie w czasie rzeczywistym, z wideo jak i obrazu.<br/>
 Link do pobrania:<br/>
+aa<br/>
+
 ![Alt text](https://github.com/wonderooo/PROJEKT_MASKA/blob/main/3.gif)
 <br/>
 ![Alt text](https://github.com/wonderooo/PROJEKT_MASKA/blob/main/1.gif)
