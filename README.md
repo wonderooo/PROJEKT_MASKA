@@ -5,7 +5,7 @@ Link do pobrania:<br/>
 aa<br/><br/>
 Aby uruchomić aplikację należy rozpakować pobraną paczkę, a nastepnie włączyć program aplikacja.exe znajdujący się w głównym folderze "aplikacja". Uruchamianie może zająć dłuższą chwilę(ok. 1 min), następnie wyświetli się okno jak przedstawiono niżej.<br/>
 ![Alt text](https://github.com/wonderooo/PROJEKT_MASKA/blob/main/ss.png)<br/>
-Aby uruchmić model rozpoznawania maseczki w wideo lub obrazie należy do okna pod "WIDEO i OBRAZ" wpisać nazwę pliku wrzuconego przez Ciebie do głównego folderu "aplikacja" (można przenieść plik po włączeniu aplikacji). Wpisana nazwa musi być wpisana z rozszerzeniem np. mp4, mov, jpg, png, następnie kliknąć przycisk "Zatwierdź" i to wszystko.<br/>
+Aby uruchmić model rozpoznawania maseczki w wideo lub obrazie należy do okna pod "WIDEO i OBRAZ" wpisać nazwę pliku wrzuconego przez Ciebie do głównego folderu "aplikacja" (można przenieść plik po włączeniu aplikacji). Wpisana nazwa musi być wpisana z rozszerzeniem np. mp4, mov, jpg, png, następnie kliknąć przycisk "Zatwierdź" i to wszystko.<br/><br/>
 Aby uruchmić model w trybie rzeczywistym należy po prostu wpisać w okno pod "RZECZYWISTOŚĆ" numer urządzenia wideo. Standardowo jest to 0, ale jeśli nie zadziała możesz spróbować od 1 w górę. Po kliknięciu przycisku zatwierdź powinieneś zobaczyć obraz z kamery z detekcjami.<br/>
 ![Alt text](https://github.com/wonderooo/PROJEKT_MASKA/blob/main/3.gif)
 <br/>
