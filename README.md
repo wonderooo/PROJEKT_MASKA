@@ -4,7 +4,7 @@ Aplikacja pozwala na rozpoznawanie w czasie rzeczywistym, z wideo jak i obrazu.<
 Link do pobrania:<br/>
 aa<br/>
 Aby uruchomić aplikację należy rozpakować pobraną paczkę, a nastepnie włączyć program aplikacja.exe znajdujący się w głównym folderze "aplikacja". Uruchamianie może zająć dłuższą chwilę(ok. 1 min), następnie wyświetli się okno jak przedstawiono niżej.<br/>
-![Alt text](https://github.com/wonderooo/PROJEKT_MASKA/blob/main/ss.png)
+![Alt text](https://github.com/wonderooo/PROJEKT_MASKA/blob/main/ss.png)<br/>
 ![Alt text](https://github.com/wonderooo/PROJEKT_MASKA/blob/main/3.gif)
 <br/>
 ![Alt text](https://github.com/wonderooo/PROJEKT_MASKA/blob/main/1.gif)
